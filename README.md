@@ -8,15 +8,7 @@ However, if you find any incompatibilities please report it as an issue in this 
 
 A repository for lego keyboard with 65 PCB and plate
 
-Feel free to make your own, or alter my design, and create pull request into keyboards folder.
-
-All nice boards will get a mention in this list:
-
-1. [Lego65 base](https://github.com/darkosmoljo/lego-m65a.git)
-2. TBD...
-
-M65-A plate (which is modified for this project, but still compatible) and pcb files can be downloaded from original source here: [Keyclack M65-A](https://github.com/Keyclack/M65-A)
-
+Feel free to make your own, or alter my design, and create pull request. your file should be inside `stud_io` folder alongside current `lego65.io` file.
 
 # TODO
 
@@ -44,7 +36,10 @@ Anything that can work with Rama m65-a plate (as current plate is just a modifie
 - maybe some more (the new PCB from certain EU vendor for ISO support?), need other people to try and confirm
 
 ## Plate + gaskets
-The plate should be mounted with gaskets. The gaskets will not be super soft like your high-end board, but we need them in order to make a good pressure fit in between lego. At the end, the plate is going to flex because of flex-cuts, not because you are using gaskets.
+The plate should be mounted with gaskets. The gaskets will not be super soft like your high-end board, but we need them in order to make a good pressure fit in between lego. At the end, some plates are going to flex because of flex-cuts, not because you are using gaskets. There is three plates currently available:
+* default - no flex cuts or anything, quite stiff typing experience
+* flex cuts - modifield default version with a lot of flex cuts all around gaskets
+* half plate - modified version of flex cuts, it has all alpha keys free from plate, plus flex cuts around gaskets
 
 ### 1.2mm plate!
 The plate files can be found in plates folder, so just use any plate cutting service to get your plate. The plate should be 1.2mm thick (explained below), unless you want to find gaskets which would fit with different plate thickness.
