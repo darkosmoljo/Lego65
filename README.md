@@ -42,7 +42,7 @@ The plate should be mounted with gaskets. The gaskets will not be super soft lik
 * half plate - modified version of flex cuts, it has all alpha keys free from plate, plus flex cuts around gaskets
 
 ### 1.2mm plate!
-The plate files can be found in plates folder, so just use any plate cutting service to get your plate. The plate should be 1.2mm thick (explained below), unless you want to find gaskets which would fit with different plate thickness.
+You can find DXF files for plates in plates folder, so just use any plate cutting services to get your plate. The plate should be 1.2mm thick (explained below), unless you want to find gaskets which would fit with different plate thickness.
 
 ### The 3.2mm rule
 A Lego stud high is exactly 3.2mm, this means we have this constraint in order to _snuggly_ fit plate + gaskets.
