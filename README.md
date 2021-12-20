@@ -8,7 +8,7 @@ However, if you find any incompatibilities please report it as an issue in this 
 
 A repository for lego keyboard with 65 PCB and plate
 
-Feel free to make your own, or alter my design, and create pull request. your file should be inside `stud_io` folder alongside current `lego65.io` file.
+Feel free to contribute by creating pull request.
 
 # TODO
 
